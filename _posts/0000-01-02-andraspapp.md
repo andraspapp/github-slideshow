@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"But first, let me take a selfie."
 Use the left arrow to go back!
